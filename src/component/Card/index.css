@@ -1,0 +1,43 @@
+.li-card-bg {
+  width: 200px;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  box-shadow: 1px 2px 6px 2px #d5d6db;
+}
+
+.imgs-card {
+  width: 200px;
+  height: 200px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.card-data-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.card-head {
+  font-size: 20px;
+  color: #0216f2;
+  margin: 0px;
+}
+
+.card-rating {
+  color: #c763e6;
+  font-size: 15px;
+}
+
+.card-viewDetails-btn {
+  width: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  height: 30px;
+  font-size: 15px;
+  background-color: #2fbf2a;
+  color: #010f00;
+}

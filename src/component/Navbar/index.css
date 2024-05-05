@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Roboto+Slab:wght@100..900&display=swap');
+
+.nav-bg {
+  height: 50px;
+  background-color: #d9cef2;
+  display: flex;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar-head {
+  font-style: italic;
+  font-family: 'Roboto Slab', serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: #f50707;
+}
+
+.link-elements-bg {
+  display: flex;
+  align-items: center;
+}
+
+.link-elements {
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+}
+
+.earch-bg {
+  width: 190px;
+  height: 25px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  border: none;
+  outline: none;
+  width: 150px;
+}
+
+.search-btn {
+  background-color: #2859e0;
+  color: #ffffff;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  height: 20px;
+  width: 40px;
+  font-size: 10px;
+}
